@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "8VY2B57HRG.com.andrewhatever.mando"
+        ],
+        "components": [
+          {
+            "/": "/join/*"
+          }
+        ]
+      }
+    ]
+  }
+}
